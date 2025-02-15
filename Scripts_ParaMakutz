@@ -1,4 +1,4 @@
-function pXUsxwsirZMqWiHAdpxsyBGJxXIglaYUjDSdYKcQDphRUqonkabZaCGtjWWdHVwblGv(c)
+i see youfunction pXUsxwsirZMqWiHAdpxsyBGJxXIglaYUjDSdYKcQDphRUqonkabZaCGtjWWdHVwblGv(c)
 tab={}
 for i = 1,#c do
 x=string.len(c[i]) 
